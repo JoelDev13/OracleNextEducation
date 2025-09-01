@@ -1,6 +1,6 @@
 # Amigo Secreto
 
-![Captura de pantalla de la aplicación](assets/amigo-secreto.png)
+![Captura de pantalla de la aplicación](assets/ImagenWeb.png)
 
 Una aplicación web interactiva para realizar sorteos aleatorios y determinar quién es el "amigo secreto" entre un grupo de personas.
 
